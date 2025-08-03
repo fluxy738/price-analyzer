@@ -14,7 +14,7 @@ Un logiciel intelligent pour détecter automatiquement les erreurs de prix sur l
 
 1. Clonez le repository :
 ```bash
-git clone [url-du-repo]
+git clone (https://github.com/fluxy738/price-analyzer.git)
 cd price-analyzer
 ```
 
